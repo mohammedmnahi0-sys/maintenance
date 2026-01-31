@@ -1,0 +1,7 @@
+{
+  "name": "Al-Fao Preventive Maintenance System",
+  "description": "A comprehensive multi-department industrial maintenance management system (CMMS) featuring role-based access control, equipment tracking, and automated scheduling for Al-Fao Depot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
